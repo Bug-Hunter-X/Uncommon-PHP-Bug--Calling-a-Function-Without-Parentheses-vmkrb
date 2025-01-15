@@ -1,0 +1,1 @@
+This repository contains a demonstration of an uncommon PHP bug: calling a function without parentheses. This might not be the most frequent error, but it can occur and lead to unexpected parse errors. The bug and solution are explained in the respective PHP files.
